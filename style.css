@@ -11,11 +11,8 @@ body {
 }
 
 #logo {
-	padding-left: 10px;
-}
-
-img {
-	width: 150px;
+	width: 22vw;
+	max-width: 159px;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -23,35 +20,26 @@ img {
 }
 
 h1 {
-	margin-top: 15%;
-	font-size: 3em;
+	margin-top: 10%;
+	font-size: 50px;
 	font-weight: normal;
 	color: #3a3a3a;
 	padding-top: 30px;
 }
 
 p {
-	font-size: 2em;
+	font-size: 30px;
 	color: #3a3a3a;
 	line-height: 1.8;
 }
 
-@media screen and (max-width: 750px) {
-	h1 {
-		font-size: 2.5em;
-		padding-top: 30px;
-	}
-	p {
-		font-size: 1.55em;
-	}
-}
 
 @media screen and (max-width: 600px) {
 	h1 {
-		font-size: 2em;
+		font-size: 38px;
 	}
 	p {
-		font-size: 1.5em;
+		font-size: 28px;
 	}
 }
 
@@ -76,30 +64,32 @@ p {
 }
 
 #scroll {
-	color: #3a3a3a;
-	position: absolute;
-	bottom: 10px;
-	left: 48%;
-	z-index: 2;
-	display: inline-block;
-	-webkit-transform: translate(0, -50%);
-	transform: translate(0, -50%);
-	text-decoration: none;
+	margin-bottom: 80px;
+	display: flex;
+	flex-direction: column;
+	align-items: stretch;
 }
 
 #scroll img {
-	width: 30px;
-	margin-bottom: 3px;
+	width: 5%;
+	max-width: 32px;
+	margin: auto;
+}
+
+#scroll a {
+	text-decoration: none;
+	color: #3a3a3a;
+	text-align: center;
+	font-size: 80%;
 }
 
 .center {
 	margin: auto;
-	width: 50%;
+	width: 70%;
 }
 
-#home, #resume {
-	width: 100%;
-	height: 100%;
+#resume {
+	margin-top: 85px;
 }
 
 hr {
@@ -109,19 +99,15 @@ hr {
     border-bottom: 1px solid rgba(255, 255, 255, 0.3);
 }
 
-#resume {
-	padding-top: 20px;
-}
-
 
 h2 {
 	color: #3c94bf;
-	font-size: 2em;
+	font-size: 32px;
 }
 
 h3 {
 	color: #3a3a3a;
-	font-size: 1.5em;
+	font-size: 23px;
 	margin: 10px 0;
 }
 
@@ -132,17 +118,14 @@ h4 {
 	line-height: 1.8;
 }
 
-#education, #experience, #handles {
+#education {
 	margin-bottom: 50px;
 }
 
-i{
-	font-size: 35px;
-	margin-right: 20px;
-	color: #3a3a3a;
+#intro {
+	margin-bottom: 100px;
 }
 
-i:hover {
-	color: #3c94bf;
+#experience {
+	margin-bottom: 85px;
 }
-
