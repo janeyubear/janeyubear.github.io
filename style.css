@@ -136,5 +136,15 @@ h4 {
 }
 
 #experience {
-	margin-bottom: 85px;
+	margin-bottom: 35px;
+}
+
+i {
+	font-size: 35px;
+	margin-right: 20px;
+	color: #3a3a3a;
+}
+
+#handles {
+	margin-bottom: 50px;
 }
