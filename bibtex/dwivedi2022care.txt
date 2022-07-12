@@ -1,0 +1,6 @@
+@article{dwivedi2022care,
+  title={"That's so cute!": The CARE Dataset for Affective Response Detection},
+  author={Dwivedi-Yu, Jane and Halevy, Alon Y},
+  journal={arXiv preprint arXiv:2201.11895},
+  year={2022}
+}
