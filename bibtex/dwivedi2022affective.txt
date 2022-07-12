@@ -1,0 +1,6 @@
+@article{dwivedi2022affective,
+  title={Affective Signals in a Social Media Recommender System},
+  author={Dwivedi-Yu, Jane and Wang, Yi-Chia and Qin, Lijing and Canton-Ferrer, Cristian and Halevy, Alon Y},
+  journal={arXiv preprint arXiv:2206.12374},
+  year={2022}
+}

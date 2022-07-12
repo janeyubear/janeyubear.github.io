@@ -1,0 +1,9 @@
+@article{luo2019worldwide,
+  title={Worldwide genetic variation of the IGHV and TRBV immune receptor gene families in humans},
+  author={Luo, Shishi and Jane, A Yu and Li, Heng and Song, Yun S},
+  journal={Life science alliance},
+  volume={2},
+  number={2},
+  year={2019},
+  publisher={Life Science Alliance}
+}

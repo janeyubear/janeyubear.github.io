@@ -1,0 +1,8 @@
+@inproceedings{ignat2021detecting,
+  title={Detecting Inspiring Content on Social Media},
+  author={Ignat, Oana and Boureau, Y-Lan and Jane, A Yu and Halevy, Alon},
+  booktitle={2021 9th International Conference on Affective Computing and Intelligent Interaction (ACII)},
+  pages={1--8},
+  year={2021},
+  organization={IEEE}
+}

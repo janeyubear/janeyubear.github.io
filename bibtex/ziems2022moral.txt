@@ -1,0 +1,6 @@
+@article{ziems2022moral,
+  title={The moral integrity corpus: A benchmark for ethical dialogue systems},
+  author={Ziems, Caleb and Yu, Jane A and Wang, Yi-Chia and Halevy, Alon and Yang, Diyi},
+  journal={arXiv preprint arXiv:2204.03021},
+  year={2022}
+}

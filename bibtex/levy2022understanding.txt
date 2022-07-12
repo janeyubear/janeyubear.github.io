@@ -1,0 +1,7 @@
+@inproceedings{levy2022understanding,
+  title={Understanding Conflicts in Online Conversations},
+  author={Levy, Sharon and Kraut, Robert E and Yu, Jane A and Altenburger, Kristen M and Wang, Yi-Chia},
+  booktitle={Proceedings of the ACM Web Conference 2022},
+  pages={2592--2602},
+  year={2022}
+}

@@ -1,0 +1,6 @@
+@article{li2021quantifying,
+  title={Quantifying Adaptability in Pre-trained Language Models with 500 Tasks},
+  author={Li, Belinda Z and Yu, Jane and Khabsa, Madian and Zettlemoyer, Luke and Halevy, Alon and Andreas, Jacob},
+  journal={arXiv preprint arXiv:2112.03204},
+  year={2021}
+}
