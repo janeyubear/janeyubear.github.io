@@ -70,11 +70,10 @@ p {
 
 li{
   margin: 10px 0;
-  font-size: 20px;
 }
 
 it {
-	font-size: 20px;
+  font-size: 20px;
 }
 
 .highlight:hover {
