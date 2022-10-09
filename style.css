@@ -149,6 +149,12 @@ i {
 	color: #3a3a3a;
 }
 
+it {
+	font-size: 20px;
+	margin-right: 20px;
+	color: #3a3a3a;
+}
+
 #handles {
 	margin-bottom: 50px;
 }
