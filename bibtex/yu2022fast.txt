@@ -1,0 +1,8 @@
+@article{yu2022fast,
+  title={A fast machine-learning-guided primer design pipeline for selective whole genome amplification},
+  author={Yu, Jane A and Oppler, Zachary J and Mitchell, Matthew W and Song, Yun S and Brisson, Dustin},
+  journal={bioRxiv},
+  pages={2022--04},
+  year={2022},
+  publisher={Cold Spring Harbor Laboratory}
+}

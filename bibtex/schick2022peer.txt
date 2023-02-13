@@ -1,0 +1,6 @@
+@article{schick2022peer,
+  title={PEER: A Collaborative Language Model},
+  author={Schick, Timo and Dwivedi-Yu, Jane and Jiang, Zhengbao and Petroni, Fabio and Lewis, Patrick and Izacard, Gautier and You, Qingfei and Nalmpantis, Christoforos and Grave, Edouard and Riedel, Sebastian},
+  journal={arXiv preprint arXiv:2208.11663},
+  year={2022}
+}

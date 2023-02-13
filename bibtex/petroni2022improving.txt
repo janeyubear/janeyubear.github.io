@@ -1,0 +1,6 @@
+@article{petroni2022improving,
+  title={Improving Wikipedia Verifiability with AI},
+  author={Petroni, Fabio and Broscheit, Samuel and Piktus, Aleksandra and Lewis, Patrick and Izacard, Gautier and Hosseini, Lucas and Dwivedi-Yu, Jane and Lomeli, Maria and Schick, Timo and Mazar{\'e}, Pierre-Emmanuel and others},
+  journal={arXiv preprint arXiv:2207.06220},
+  year={2022}
+}

@@ -1,0 +1,8 @@
+@article{pilling2022selective,
+  title={Selective whole-genome amplification reveals population genetics of Leishmania braziliensis directly from patient skin biopsies},
+  author={Pilling, Olivia A and Grace, Cooper A and Reis-Cunha, Jo{\~a}o L and Berry, Alexander SF and Mitchell, Matthew W and Yu, Jane A and Malekshahi, Clara and Krespan, Elise and Go, Christina K and Lombana, Cl{\'a}udia and others},
+  journal={medRxiv},
+  pages={2022--09},
+  year={2022},
+  publisher={Cold Spring Harbor Laboratory Press}
+}
