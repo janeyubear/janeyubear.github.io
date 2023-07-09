@@ -1,0 +1,6 @@
+@article{tan2023timelineqa,
+  title={TimelineQA: A Benchmark for Question Answering over Timelines},
+  author={Tan, Wang-Chiew and Dwivedi-Yu, Jane and Li, Yuliang and Mathias, Lambert and Saeidi, Marzieh and Yan, Jing Nathan and Halevy, Alon Y},
+  journal={arXiv preprint arXiv:2306.01069},
+  year={2023}
+}

@@ -1,0 +1,6 @@
+@article{margatina2023active,
+  title={Active Learning Principles for In-Context Learning with Large Language Models},
+  author={Margatina, Katerina and Schick, Timo and Aletras, Nikolaos and Dwivedi-Yu, Jane},
+  journal={arXiv preprint arXiv:2305.14264},
+  year={2023}
+}

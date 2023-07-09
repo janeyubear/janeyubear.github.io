@@ -1,0 +1,6 @@
+@article{jiang2023active,
+  title={Active retrieval augmented generation},
+  author={Jiang, Zhengbao and Xu, Frank F and Gao, Luyu and Sun, Zhiqing and Liu, Qian and Dwivedi-Yu, Jane and Yang, Yiming and Callan, Jamie and Neubig, Graham},
+  journal={arXiv preprint arXiv:2305.06983},
+  year={2023}
+}
